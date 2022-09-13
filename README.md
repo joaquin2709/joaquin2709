@@ -7,3 +7,4 @@
 * Universidad:  Universidad ORT Montevideo
 * Hobbies:  Jugar al fútbol, jugar en la computadora, hacer ejercicio y cursos de cosas relacionadas a la carrera 
 
+![](https://i.imgur.com/VNGmDe6.jpg)
