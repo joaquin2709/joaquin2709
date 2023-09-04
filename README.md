@@ -5,6 +5,4 @@
 * Nombre completo:  Joaquín Gustavo Añón Gende
 * Carrera:  Ingeniería de Software
 * Universidad:  Universidad ORT Montevideo
-* Hobbies:  Jugar al fútbol, jugar en la computadora, hacer ejercicio y cursos de cosas relacionadas a la carrera 
-
-![](https://i.imgur.com/VNGmDe6.jpg)
+* Hobbies:  Jugar al fútbol, jugar en la computadora, hacer ejercicio y cursos relacionados a la ciencia de datos
